@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-723A17C44C3A4C67F55605ACE955CB6E_0000</CrashGUID>
+		<ProcessId>10720</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>2402</SecondsSinceStart>
+		<GameName>UE4-ThirdPerson_Basic</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Vanilla</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.14.0-3195953+++UE4+Release-4.14</EngineVersion>
+		<CommandLine>&quot;C:/Users/logonpf/Downloads/Unreal Projects/ThirdPerson_Basic/ThirdPerson_Basic.uproject&quot;-EpicPortal</CommandLine>
+		<LanguageLCID>1046</LanguageLCID>
+		<AppDefaultLocale>pt_BR</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.14-CL-3195953</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>logonpf</UserName>
+		<BaseDir>C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>C:/Program Files (x86)/Epic Games/4.14/</RootDir>
+		<MachineId>73BB558A449FF5DD543B10A4E1E3A900</MachineId>
+		<EpicAccountId />
+		<CallStack />
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint />
+		<ErrorMessage>Ensure condition failed: false [File:D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Editor\Kismet\Private\SKismetInspector.cpp] [Line: 520] &nl;Object in KismetInspector is invalid, see TTP 281915&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 8.1</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>8487206912</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>1596862464</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140735216525312</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1328132096</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1476861952</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>1416851456</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>1569464320</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636428179245830000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 8.1  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
